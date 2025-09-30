@@ -13,3 +13,10 @@ The solutions with Sorting are implemented in Java, JavaScript, TypeScript, C++,
 
 The solutions with Sorted Map are implemented in Java, C++ and Kotlin. As of September 2025,<br/> of the programming languages I know, only these three languages have an inbuilt Sorted Map.
 
+---------------------------------------------------------------------------------------------
+
+**Additional comments!**
+
+**While solving the problem, I did not notice that when method “exp(String name)” is called, there is no requirement to return the table with rows sorted in increasing order by rowIDs. So, in this case, a simple Hash Map without additional sorting is enough.** 
+
+**Anyway, I leave these two alternative approaches, for the imaginary scenario that there is such a requirement. It works both for sorted and unsorted scenario, though for the latter, it is a little bit slower than a Hash Map without sorting, due to the additional cost of sorting the keys of the Hash Map or using a Sorted Map.**

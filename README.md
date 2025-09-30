@@ -11,5 +11,5 @@ One of the methods given for implementation by Leetcode, namely “exp(String na
 
 The solutions with Sorting are implemented in Java, JavaScript, TypeScript, C++, C#, Kotlin and Go.
 
-The solutions with Sorted Map are implemented in Java, C++ and Kotlin. As of September 2025, from the programming languages I know,<br/> only these three languages have an inbuilt Sorted Map.
+The solutions with Sorted Map are implemented in Java, C++ and Kotlin.<br/> As of September 2025, from the programming languages I know, only these three languages have an inbuilt Sorted Map.
 

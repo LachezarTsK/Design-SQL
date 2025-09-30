@@ -73,7 +73,7 @@ class SQL {
 
         const tableFormatCSV = new Array();
         for (let rowID of sortedRowIDs) {
-            const row = rowID + DELIMITER + this.namesToTables.get(name).rowsToColumns.get(rowID).join(SQL.DELIMITER);
+            const row = rowID + SQL.DELIMITER + this.namesToTables.get(name).rowsToColumns.get(rowID).join(SQL.DELIMITER);
             tableFormatCSV.push(row);
         }
 

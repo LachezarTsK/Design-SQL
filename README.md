@@ -15,7 +15,7 @@ The solutions with Sorted Map are implemented in Java, C++ and Kotlin. As of Sep
 
 ---------------------------------------------------------------------------------------------
 
-**Additional comments!**
+**Additional Comments!!**
 
 **While solving the problem, I did not notice that when method “exp(String name)” is called, there is no requirement to return the table with rows sorted in increasing order by rowIDs. So, in this case, a simple Hash Map without additional sorting is enough.** 
 
